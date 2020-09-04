@@ -1,4 +1,3 @@
-import { RandomComponent } from './components/pages/random/random.component';
 import { NgModule, Component } from '@angular/core';
 import { Routes, RouterModule } from '@angular/router';
 import { AboutComponent } from './components/pages/about/about.component';
@@ -12,10 +11,6 @@ const routes: Routes = [
   {
     path: 'about',
     component: AboutComponent,
-  },
-  {
-    path: 'random',
-    component: RandomComponent,
   },
 ];
 
