@@ -1,4 +1,4 @@
-#Todo App
+# Todo App
 
 This project was created using Angular 10.It helps in increasing productivity by jotting down everyday tasks according to priority and delete them once completed. This current version is static and will reset on refresh.However, tasks can be added/deleted.
 
